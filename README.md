@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 
 <h1 align="center">Hello World👋, I'm Yousra Hanif</h1>
 <h3 align="center">A passionate software engineer and frontend developer from New York, NY</h3>
