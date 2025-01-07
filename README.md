@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/yousrahanif/main/raw/main/github-header-image.png)
+![Banner Image](https://github.com/yousrahanif/raw/main/github-header-image.png)
 <h1 align="center">Hello World👋, I'm Yousra Hanif</h1>
 <h3 align="center">A passionate software engineer and frontend developer from New York, NY</h3>
 
