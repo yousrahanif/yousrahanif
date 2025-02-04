@@ -1,6 +1,10 @@
 ![Header](./github-header-image.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousrahanif)](https://github.com/yousrahanif/github-readme-stats)
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yousrahanif">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousrahanif" alt="Top Languages" />
+  </a>
+</div>
 - 🔭 I’m currently working on **Developing a responsive and user-friendly school website at NYC Department of Education using React, Tailwind CSS, and Node.js.**
 
 - 🌱 I’m currently learning **Tailwind CSS best practices, DaisyUI, and building reusable components with React.**
