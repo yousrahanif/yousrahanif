@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **yousrahanif26@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/drive/u/1/home](https://drive.google.com/file/d/1AEAtG5Xg6E2fNUAbvrfhymp5YZ3zmkdt/view?usp=sharing)]([Resume))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AEAtG5Xg6E2fNUAbvrfhymp5YZ3zmkdt/view?usp=sharing)
+
 
 - ⚡ Fun fact **I’ve successfully mentored over 20 students in coding while juggling full-time development roles and academic research projects!**
 
