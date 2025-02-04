@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousrahanif&show_icons=true)
+
 - 🔭 I’m currently working on **Developing a responsive and user-friendly school website at NYC Department of Education using React, Tailwind CSS, and Node.js.**
 
 - 🌱 I’m currently learning **Tailwind CSS best practices, DaisyUI, and building reusable components with React.**
