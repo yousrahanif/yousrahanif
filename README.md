@@ -1,5 +1,6 @@
 ![Header](./github-header-image.png)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousrahanif&layout=compact)
 
 - 🔭 I’m currently working on **Developing a responsive and user-friendly school website at NYC Department of Education using React, Tailwind CSS, and Node.js.**
 
