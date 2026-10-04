@@ -10,8 +10,7 @@ I'm finishing my MS in Computer Science (HCI) at Georgia Tech.
 - 🎓 Finishing my MS in CS (HCI) at Georgia Tech
 
 ## Projects
-- **Matrimony Website:** full-stack matchmaking app with profile search, premium access requests, and an admin dashboard. [Live](ADD-LINK) | [Client](ADD-LINK) | [Server](ADD-LINK)
-- **Portfolio:** more of my work at [portfolio-three-peach-22.vercel.app](https://portfolio-three-peach-22.vercel.app/)
+- **Matrimony Website:** full-stack matchmaking app with profile search, premium access requests, and an admin dashboard. 
 
 ## Ask me about
 React, JavaScript, Tailwind CSS, Node.js, and building AI tools for education.
